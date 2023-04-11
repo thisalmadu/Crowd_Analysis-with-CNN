@@ -8,8 +8,8 @@ The dataset we ended up being used was the “Shanghai Tech” dataset (https://
   <img src="images/annotated.png" width="400" title="Annotated image from ShanghaiTech dataset">
 
 The Project consists of two models :
-  Model 1: Generate the density map for a given image to the model
-  Model 2: Predict the number of people in the density map
+  .* Model 1: Generate the density map for a given image to the model
+  .* Model 2: Predict the number of people in the density map
   
 <p align="center">
   <img src="images/method.png" width="400" title="Model behaviour">  
